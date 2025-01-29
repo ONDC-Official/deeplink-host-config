@@ -1,1 +1,1 @@
-# deeplink-host-resolver
+# deeplink-host-config
