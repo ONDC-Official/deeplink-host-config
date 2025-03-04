@@ -1,3 +1,7 @@
 {
-    "deeplink.ret10.ondc": "https://deeplink.resolver.ondc.org/api/resolver"
+    "deeplink.ret10.ondc": "https://deeplink.resolver.ondc.org/api/resolver",
+    "kiko.ret10.ondc":"https://ondc.kiko.live/api/resolver",
+    "kiko.ret11.ondc":"https://ondc.kiko.live/api/resolver",
+    "kiko.ret12.ondc":"https://ondc.kiko.live/api/resolver",
+    "kiko.ret13.ondc":"https://ondc.kiko.live/api/resolver"
 }
